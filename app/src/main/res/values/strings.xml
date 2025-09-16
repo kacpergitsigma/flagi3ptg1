@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlagiTest</string>
+    <string name="task">Select colors which are not in the polish flag</string>
+    <string name="button">Click!</string>
+</resources>
