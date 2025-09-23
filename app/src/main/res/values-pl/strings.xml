@@ -3,4 +3,6 @@
     <string name="app_name">FlagiTest</string>
     <string name="task">Wybierz kolory, których nie ma na polskiej fladze</string>
     <string name="button">Kliknij!</string>
+    <string name="don_t_touch_this_color">Nie dotykaj tego koloru</string>
+    <string name="congratulations_congratulations_this_is_the_polish_flag">Gratulacje! To flaga Polski!</string>
 </resources>

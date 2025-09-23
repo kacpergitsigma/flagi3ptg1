@@ -19,17 +19,8 @@
         android:text="@string/task"
         android:textAlignment="center"
         android:textColor="@color/white"
+        android:id="@+id/text"
         android:textSize="@dimen/big_text" />
-
-    <!--<Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:backgroundTint="@color/button_color"
-        android:onClick="test"
-        android:text="@string/button"
-        android:textColor="#E25827"
-        android:textSize="@dimen/small_text" />-->
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -97,5 +88,13 @@
             android:onClick="correctFlag"
             android:text="" />
     </LinearLayout>
+
+    <Button
+        android:id="@+id/nextCountryButton"
+        android:visibility="invisible"
+        android:layout_width="279dp"
+        android:layout_height="61dp"
+        android:onClick="nextCountry"
+        android:text="@string/next_country" />
 
 </LinearLayout>
