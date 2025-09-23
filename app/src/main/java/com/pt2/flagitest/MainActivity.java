@@ -46,6 +46,11 @@ public class MainActivity extends AppCompatActivity {
 
     public void nextCountry(View view) {
         view.setVisibility(View.INVISIBLE);
+        findViewById(R.id.button2).setVisibility(View.VISIBLE);
+        findViewById(R.id.button3).setVisibility(View.VISIBLE);
+        findViewById(R.id.button4).setVisibility(View.VISIBLE);
+        findViewById(R.id.button5).setVisibility(View.VISIBLE);
+        findViewById(R.id.button6).setVisibility(View.VISIBLE);
         task.setText(R.string.taskua);
     }
 }

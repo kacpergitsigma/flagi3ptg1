@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">FlagiTest</string>
-    <string name="task">Select colors which are not in the polish flag</string>
-    <string name="taskua">Select colors which are not in the ukrainian flag</string>
+    <string name="task">Select colors which are not in the POLISH flag</string>
+    <string name="taskua">Select colors which are not in the UKRAINIAN flag</string>
+    <string name="taskch">Select colors which are not in the CHINESSE flag</string>
     <string name="button">Click!</string>
     <string name="don_t_touch_this_color">Don\'t touch this color</string>
     <string name="congratulations_congratulations_this_is_the_polish_flag">Well Done! This is the polish flag!!</string>
